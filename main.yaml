@@ -1,7 +1,6 @@
 name : Test Action
 on : [push]
 
-job:
   get-num-square:
   runs-on: ubuntu-latest
   name: Returns the number square
